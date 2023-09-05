@@ -1,2 +1,2 @@
-# skillspike.info
+# SkillSpike
 Spike your skills
